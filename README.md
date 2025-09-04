@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Full-Stack Web Development 👨‍💻 | MERN Stack | Seeking New Challenges 🎯</h3>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com//AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph.svg">
+</picture>
+
+
 <!--Profile views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar1020&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar1020" /> </p>
 
