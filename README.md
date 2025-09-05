@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [Full stack Next js](https://github.com/AMANKUMAR1020/full_stack_nextjs)
 
-- 🌱 I’m currently learning **Docker, AWS, etc.**
+- 🌱 I’m currently learning *kubernetes*, AWS, etc.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/amankumar1020](https://linktr.ee/amankumar1020)
 
