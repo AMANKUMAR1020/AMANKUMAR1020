@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">Full-Stack Web Development 👨‍💻 | MERN Stack | Seeking New Challenges 🎯</h3>
+<h3 align="center">Full-Stack Web Development 👨‍💻 | Java Developer | Seeking New Challenges 🎯</h3>
 
 
 <picture>
