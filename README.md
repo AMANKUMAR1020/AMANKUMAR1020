@@ -1,108 +1,107 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">Full-Stack Web Development 👨‍💻 | Java Developer | Seeking New Challenges 🎯</h3>
+<div align="center">
+
+# Hi 👋, I'm **Aman Kumar**
+### Full-Stack Web Developer 👨‍💻 | Java Enthusiast ☕ | Problem Solver 🎯
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="500"/>
+</picture> -->
+
+[![Profile Views](https://komarev.com/ghpvc/?username=amankumar1020&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AMANKUMAR1020) 
+<br/>
+[![Twitter Follow](https://img.shields.io/twitter/follow/amankumar102030?logo=twitter&style=for-the-badge)](https://twitter.com/amankumar102030)
+
+<!-- Fixed GitHub Trophy -->
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AMANKUMAR1020&theme=radical&no-frame=false&no-bg=false&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com//AMANKUMAR1020/AMANKUMAR1020/output/pacman-contribution-graph.svg">
-</picture>
+</div>
 
+## 🚀 **About Me**
+- 🔭 Working on **[Full Stack Next.js](https://github.com/AMANKUMAR1020/full_stack_nextjs)**
+- 🌱 Learning **Kubernetes**, **AWS**, **DevOps**
+- 💻 Expert in **DSA**, **JavaScript**, **C++**, **React**, **Node.js**, **Next.js**, **SQL**
+- ⚡ Fun fact: *Love solving complex problems and building scalable apps!*
 
-<!--Profile views-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar1020&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar1020" /> </p>
-
-
-<!--Profile X aman kumar-->
-<p align="left"> <a href="https://twitter.com/amankumar102030" target="blank"><img src="https://img.shields.io/twitter/follow/amankumar102030?logo=twitter&style=for-the-badge" alt="amankumar102030" /></a> </p>
-
-<!--Profile view-->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankumar1020" alt="amankumar1020" /></a> </p>
-
-
-- 🔭 I’m currently working on [Full stack Next js](https://github.com/AMANKUMAR1020/full_stack_nextjs)
-
-- 🌱 I’m currently learning *kubernetes*, AWS, etc.**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/amankumar1020](https://linktr.ee/amankumar1020)
-
-<!-- - 📝 I regularly write articles on [https://www.linkedin.com/in/aman-kumar-86062722b/](https://www.linkedin.com/in/aman-kumar-86062722b/) -->
-
-- 💬 Ask me about **DSA (Data Structure And Algorithms), Javascript, C++, react.js, node.js, next.js, SQL**
-
-<!-- - 📫 How to reach me **amankumarchouhan1020@gmail.com** -->
-
-- 📄 Know about my experiences [https://tr.ee/A7k6WvYC5g](https://tr.ee/A7k6WvYC5g)
-
-<!-- - ⚡ Fun fact **Love to Make projects and solve complex problems** -->
-
-### Connet with me
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- Social Network -->
-<h4 align="left">Social Network:</h4>
-<a href="https://twitter.com/amankumar102030" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumar102030" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-kumar-86062722b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kumar-86062722b/" height="30" width="40" />
-</a>
-
-<!-- coding platform handle -->
-<h4 align="left"> coding platform handle:</h4>
-<a href="https://www.codechef.com/users/https://atcoder.jp/users/aman1020" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://atcoder.jp/users/aman1020" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/amankumarchouha2" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amankumarchouha2" height="30" width="40" />
-</a>
-
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/aman1020" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/aman1020" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/https://leetcode.com/u/amankumar1020/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amankumar1020/" height="30" width="40" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/amankumarchouhan1020/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/amankumarchouhan1020/" height="30" width="40" />
-</a>
-
-<a href="https://www.topcoder.com/members/https://profiles.topcoder.com/aman1020" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/aman1020" height="30" width="40" />
-</a>
-
-<!-- Bloging and community (Connect with me) -->
-<h4 align="left"> Bloging and community (Connect with me):</h4>
-<p align="left">
-  <a href="https://dev.to/aman1020" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aman1020" height="30" width="40" />
+## 📫 **Connect With Me**
+<div align="center">
+  <a href="https://twitter.com/amankumar102030" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="https://www.linkedin.com/in/aman-kumar-86062722b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linktr.ee/amankumar1020" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</div>
 
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25184176/aman-kumar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25184176/aman-kumar" height="30" width="40" />
-</a>
+## 🏆 **Coding Platforms**
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/amankumar1020/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/aman1020">
+        <img src="https://img.shields.io/badge/Codeforces-4285F4?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/aman1020">
+        <img src="https://img.shields.io/badge/CodeChef-5FC3E4?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/amankumarchouha2">
+        <img src="https://img.shields.io/badge/HackerRank-2EC547?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/amankumarchouhan1020/">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-333333?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://atcoder.jp/users/aman1020">
+        <img src="https://img.shields.io/badge/AtCoder-06D166?style=for-the-badge&logo=AtCoder&logoColor=white" alt="AtCoder"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
-<a href="https://medium.com/@aman1020" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman1020" height="30" width="40" />
-</a>
+## 🛠️ **Tech Stack**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,aws,docker,kubernetes,git,tailwind,html,css" />
+</div>
 
-<a href="/aman1020" target="blank" align="center">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="aman1020" height="30" width="40" />
-</a>
-</p>
+## 📊 **GitHub Stats**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amankumar1020&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar1020&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar1020&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankumar1020&theme=react-dark&hide_border=true"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/aman1020"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/aman1020" /></a></p><br><br>
+## ☕ **Support Me**
+<div align="center">
+  <a href="https://buymeacoffee.com/aman1020">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankumar1020&show_icons=true&locale=en&layout=compact" alt="amankumar1020" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankumar1020&show_icons=true&locale=en" alt="amankumar1020" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumar1020&" alt="amankumar1020" /></p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Keep+Coding...;Let's+connect!&font=Fira%20Code&pause=1000&center=true&width=440&height=100&color=0EA8E9&vCenter=true&size=28" />
+</div>
